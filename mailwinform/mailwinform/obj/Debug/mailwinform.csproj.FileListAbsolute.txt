@@ -1,0 +1,9 @@
+H:\Demo_new\mailwinform\mailwinform\bin\Debug\mailwinform.exe.config
+H:\Demo_new\mailwinform\mailwinform\bin\Debug\mailwinform.exe
+H:\Demo_new\mailwinform\mailwinform\bin\Debug\mailwinform.pdb
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.csprojResolveAssemblyReference.cache
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.Form1.resources
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.Properties.Resources.resources
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.csproj.GenerateResource.Cache
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.exe
+H:\Demo_new\mailwinform\mailwinform\obj\Debug\mailwinform.pdb
